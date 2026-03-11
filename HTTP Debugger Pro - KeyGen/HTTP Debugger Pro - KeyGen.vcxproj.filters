@@ -15,8 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HTTP Debugger Pro - KeyGen.cpp">
+    <ClCompile Include="HTTP Debugger Pro - KeyGen.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
+
 </Project>
